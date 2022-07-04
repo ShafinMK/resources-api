@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "serviceName": "Harddisk repair",
+    "serviceInfo": "If your hard drive gets corrupted due to a file system error or the hard drive turns RAW, don't panic. This guide will provide you with detailed steps to repair a corrupt hard disk without losing data. To do this, you must first check if it is the logical error that prevents you from accessing the hard drive. If so, you can check and perform hard disk repair. If it is a physical hard drive problem, you'll need to send your hard drive to the data recovery or repair service center.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/b1pW5SG/harddisk-Repair.jpg",
+    "serviceTime": "2 hours",
+    "cost": 1800
+  },
+  {
+    "id": 2,
+    "serviceName": "Cleaning Laptop/ Replacing the Thermal Paste",
+    "serviceInfo": "Our experts can easily cleaning the cooling system of your PC or laptop from dust and lubricate the fans.",
+    "serviceDescription": "All computers get dirty over time. However, laptops tend to need cleaning more often because of how they are handled. Particularly if you frequently travel with your laptop, you probably want to clean it at least once a month. A buildup of dirt and grime, particularly on the screen and the keys, can impair your laptop's functioning. Always make sure you shut down your laptop and disconnect it from any power source before you start cleaning it. If possible, you should also remove the battery",
+    "serviceThumb": "https://i.ibb.co/c65Z9f4/pcclean.jpg",
+    "serviceTime": "1 hour",
+    "cost": 1000
+  },
+  {
+    "id": 3,
+    "serviceName": "Data recovery & HDD/SSD repair",
+    "serviceInfo": "If your data drive, HDD, or SSD are damaged, we will gladly help  you recover any data you need.",
+    "serviceDescription": "Enterprise data recovery is the process of restoring lost, corrupted, accidentally deleted, or otherwise inaccessible data to its server, computer, mobile device, or storage device (or to a new device if the original device no longer works).\n\n        Typically, the data is restored from a backup copy that is stored in another location. The more recent the backup copy, the more completely the data can be recovered in the event of loss or damage. For any business, successful data recovery—data recovery that prevents a greater-than-tolerable loss of data or discontinuity of business due to loss of data—requires the business to have a backup and restore plan that meets specific data recovery objectives, usually as part of a larger disaster recovery plan.",
+    "serviceThumb": "https://i.ibb.co/TkQtgNG/data-Recover.jpg",
+    "serviceTime": "3 hours",
+    "cost": 1500
+  },
+  {
+    "id": 4,
+    "serviceName": "OS Installation",
+    "serviceInfo": "Whether it’s Windows, MacOS, or Linux-based operating system, our experts will easily install it for you and provide 6-month warranty.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/7VMDCYw/List-of-operating-systems.jpg",
+    "serviceTime": "30 minutes",
+    "cost": 800
+  },
+  {
+    "id": 5,
+    "serviceName": "Assembling a personal computer",
+    "serviceInfo": "From consultation to selection of components, our experts will assist you in assembling the computer.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/37bt3KS/custom-computer-build.jpg",
+    "serviceTime": "1 hour",
+    "cost": 2000
+  },
+  {
+    "id": 6,
+    "serviceName": "Laptop repair/ Computer repair",
+    "serviceInfo": "We offer affordable laptop and computer repair services to individual and corporate clients.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/yNzPDh9/laptopfix.jpg",
+    "serviceTime": "On Condition",
+    "cost": "On Condition"
+  },
+  {
+    "id": 7,
+    "serviceName": "Virus removal",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/gMbCZCY/virus-Remove.jpg",
+    "serviceTime": "2 hours",
+    "cost": 2000
+  },
+  {
+    "id": 8,
+    "serviceName": "Troubleshooting and Network Support",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/CvzMmpZ/computer-Network.jpg",
+    "serviceTime": "1 hour",
+    "cost": 1300
+  },
+  {
+    "id": 9,
+    "serviceName": "Motherboard Replacement",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/n76crNK/how-to-change-motherboard.jpg",
+    "serviceTime": "30 minutes",
+    "cost": 1500
+  },
+  {
+    "id": 10,
+    "serviceName": "PC setup/ Installation",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/MnLzP88/pcSetup.webp",
+    "serviceTime": "1 hour",
+    "cost": 1000
+  },
+  {
+    "id": 11,
+    "serviceName": "Networking/ Routing",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/gDkhqkd/networking.jpg",
+    "serviceTime": "4 hours",
+    "cost": 6000
+  },
+  {
+    "id": 12,
+    "serviceName": "PC Customization",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/j6rxQDH/customization.jpg",
+    "serviceTime": "3 hour",
+    "cost": 5000
+  },
+  {
+    "id": 13,
+    "serviceName": "Accessories Repair",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/bg8c287/printer-Repair.jpg",
+    "serviceTime": "On Condition",
+    "cost": "On Condition"
+  },
+  {
+    "id": 14,
+    "serviceName": "Tuning Computer",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/18JyJ7X/tuning.jpg",
+    "serviceTime": "1 hour",
+    "cost": 800
+  },
+  {
+    "id": 15,
+    "serviceName": "Routine Maintenance",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/6bXq1yb/computer-Maintain.jpg",
+    "serviceTime": "1 hour",
+    "cost": 1000
+  },
+  {
+    "id": 16,
+    "serviceName": "PC Build Consultancy",
+    "serviceInfo": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe a corrupti cum doloribus ex. Explicabo et magnam praesentium quam minus.",
+    "serviceDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem officiis ratione natus sunt dicta soluta magni quasi in libero quis maxime sequi, consectetur, fuga, at minima? Distinctio ex tenetur ratione sint molestias maxime sapiente pariatur facilis voluptatem quo repellendus neque nostrum, repudiandae doloribus iure perferendis illo et corrupti voluptate quod.",
+    "serviceThumb": "https://i.ibb.co/LQjd77y/consult.jpg",
+    "serviceTime": "30 minutes",
+    "cost": 1200
+  }
+]
