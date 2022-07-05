@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "personThumb": "https://i.ibb.co/r2mynCB/team1.jpg",
+    "name": "Shadat Hossain",
+    "position": "Custom PC Builder",
+    "age": 32,
+    "email": "shadathossain@gmail.com",
+    "phone": "3241234123"
+  },
+  {
+    "id": 2,
+    "personThumb": "https://i.ibb.co/VWYpFrK/team2.jpg",
+    "name": "Puja Chakraborti",
+    "position": "Routine Service Technician",
+    "age": 32,
+    "email": "pujachakra@gmail.com",
+    "phone": "3241234123"
+  },
+  {
+    "id": 3,
+    "personThumb": "https://i.ibb.co/3MP1tDZ/team3.jpg",
+    "name": "Khandakar Md Shafin",
+    "position": "Software Engineer",
+    "age": 24,
+    "email": "shafinmuhammad28@gmail.com",
+    "phone": "324654654456"
+  },
+  {
+    "id": 4,
+    "personThumb": "https://i.ibb.co/DK7VCpS/team4.jpg",
+    "name": "Ms Suzy",
+    "position": "Software Engineer",
+    "age": 25,
+    "email": "suzy@gmail.com",
+    "phone": "3241234123"
+  },
+  {
+    "id": 5,
+    "personThumb": "https://i.ibb.co/YhFTQkN/team5.jpg",
+    "name": "Shuvam Mazumder",
+    "position": "PC Build Consultant",
+    "age": 26,
+    "email": "shuvammaz@gmail.com",
+    "phone": "3241234123"
+  },
+  {
+    "id": 6,
+    "personThumb": "https://i.ibb.co/SBgjV3H/team6.jpg",
+    "name": "Loona Heejin",
+    "position": "Interior Architect",
+    "age": 30,
+    "email": "loonaheejin@gmail.com",
+    "phone": "3241234123"
+  },
+  {
+    "id": 7,
+    "personThumb": "https://i.ibb.co/wwGh2h1/team7.jpg",
+    "name": "Kala Chan",
+    "position": "Hardware Engineer",
+    "age": 32,
+    "email": "blackmoon@gmail.com",
+    "phone": "3241234123"
+  },
+  {
+    "id": 8,
+    "personThumb": "https://i.ibb.co/B36VX9n/team8.jpg",
+    "name": "Forida Begum",
+    "position": "Repair Technician",
+    "age": 32,
+    "email": "forida23@gmail.com",
+    "phone": "324234234233"
+  },
+  {
+    "id": 9,
+    "personThumb": "https://i.ibb.co/qmrPt1c/team9.jpg",
+    "name": "Nick Monas",
+    "position": "Network Engineer",
+    "age": 29,
+    "email": "nickmonas3@gmail.com",
+    "phone": "3768678623"
+  },
+  {
+    "id": 10,
+    "personThumb": "https://i.ibb.co/j9N2GFT/team10.jpg",
+    "name": "Nizam Uddin",
+    "position": "Customer Service Manager",
+    "age": 42,
+    "email": "nizamudd@gmail.com",
+    "phone": "3241234123"
+  }
+]
